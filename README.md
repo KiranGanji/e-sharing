@@ -6,4 +6,4 @@ This website has the features of admin login and upload and it has a different f
 
 Please feel free to take any piece of code which you feel you can use. 
 
-Plese note this does not use the database connections to store and display the files. It uses text files instead.
+Please note this does not use the database connections to store and display the files. It uses text files instead.
